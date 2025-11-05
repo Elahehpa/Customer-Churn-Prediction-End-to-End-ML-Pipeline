@@ -49,6 +49,3 @@ The goal is to **identify potential churners** and provide actionable insights f
 - Stratified train-test split to maintain **class distribution**  
 - Proper scaling using `StandardScaler`  
 - Detailed performance metrics: **accuracy, precision, recall, F1-score, confusion matrix**  
-
-
-<img width="468" height="646" alt="image" src="https://github.com/user-attachments/assets/45525898-210a-4225-bcad-6c178782785f" />
