@@ -15,7 +15,7 @@ The goal is to **identify potential churners** and provide actionable insights f
 
 ---
 
-## Project Workflow
+##  Project Workflow
 1. **Data Loading & Cleaning** – Handle missing values and duplicates  
 2. **Exploratory Data Analysis (EDA)** – Analyze churn patterns by age, tenure, contract type, and monthly charges  
 3. **Feature Engineering** – Encode categorical variables, scale numerical features  
@@ -43,7 +43,7 @@ The goal is to **identify potential churners** and provide actionable insights f
 
 ---
 
-## Key Features Added
+##  Key Features Added
 - SMOTE oversampling to address **imbalanced data**  
 - Label encoding for categorical variables (`Gender`, `ContractType`, `InternetService`, `TechSupport`)  
 - Stratified train-test split to maintain **class distribution**  
